@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7581CCD4-7BF1-4711-AF6D-12EFE71E6233}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewGame/Program.cs">
+    <Files>
+      <File FileName="NewGame/Hero.cs" Line="46" Column="1" />
+      <File FileName="NewGame/Itens.cs" Line="1" Column="1" />
+      <File FileName="NewGame/Monsters.cs" Line="1" Column="1" />
+      <File FileName="NewGame/Char.cs" Line="1" Column="1" />
+      <File FileName="NewGame/Program.cs" Line="7" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NewGame" expanded="True">
+            <Node name="NewGame" expanded="True">
+              <Node name="Char.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NewGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

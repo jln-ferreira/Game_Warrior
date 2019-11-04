@@ -1,0 +1,28 @@
+C:/Users/Matheus/ITD CANADA/0000 - PROJECTS/03 - C# NewGame/NewGame/NewGame/bin/Debug/NewGame.exe.config
+C:/Users/Matheus/ITD CANADA/0000 - PROJECTS/03 - C# NewGame/NewGame/NewGame/bin/Debug/NewGame.exe
+C:/Users/Matheus/ITD CANADA/0000 - PROJECTS/03 - C# NewGame/NewGame/NewGame/bin/Debug/NewGame.pdb
+C:/Users/Matheus/ITD CANADA/0000 - PROJECTS/03 - C# NewGame/NewGame/NewGame/obj/Debug/NewGame.csprojAssemblyReference.cache
+C:/Users/Matheus/ITD CANADA/0000 - PROJECTS/03 - C# NewGame/NewGame/NewGame/obj/Debug/NewGame.csproj.CoreCompileInputs.cache
+C:/Users/Matheus/ITD CANADA/0000 - PROJECTS/03 - C# NewGame/NewGame/NewGame/obj/Debug/NewGame.exe
+C:/Users/Matheus/ITD CANADA/0000 - PROJECTS/03 - C# NewGame/NewGame/NewGame/obj/Debug/NewGame.pdb
+/Users/jose-lucas.neves/Downloads/NewGame/NewGame/bin/Debug/NewGame.exe.config
+/Users/jose-lucas.neves/Downloads/NewGame/NewGame/bin/Debug/NewGame.exe
+/Users/jose-lucas.neves/Downloads/NewGame/NewGame/bin/Debug/NewGame.pdb
+/Users/jose-lucas.neves/Downloads/NewGame/NewGame/obj/Debug/NewGame.csprojAssemblyReference.cache
+/Users/jose-lucas.neves/Downloads/NewGame/NewGame/obj/Debug/NewGame.csproj.CoreCompileInputs.cache
+/Users/jose-lucas.neves/Downloads/NewGame/NewGame/obj/Debug/NewGame.exe
+/Users/jose-lucas.neves/Downloads/NewGame/NewGame/obj/Debug/NewGame.pdb
+C:\Users\Matheus\Desktop\NewGame\NewGame\bin\Debug\NewGame.exe.config
+C:\Users\Matheus\Desktop\NewGame\NewGame\bin\Debug\NewGame.exe
+C:\Users\Matheus\Desktop\NewGame\NewGame\bin\Debug\NewGame.pdb
+C:\Users\Matheus\Desktop\NewGame\NewGame\obj\Debug\NewGame.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\NewGame\NewGame\obj\Debug\NewGame.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\NewGame\NewGame\obj\Debug\NewGame.exe
+C:\Users\Matheus\Desktop\NewGame\NewGame\obj\Debug\NewGame.pdb
+C:\Users\Matheus\ITD CANADA\0000 - PROJECTS\03 - C# NewGame\NewGame 1.1\NewGame\bin\Debug\NewGame.exe.config
+C:\Users\Matheus\ITD CANADA\0000 - PROJECTS\03 - C# NewGame\NewGame 1.1\NewGame\bin\Debug\NewGame.exe
+C:\Users\Matheus\ITD CANADA\0000 - PROJECTS\03 - C# NewGame\NewGame 1.1\NewGame\bin\Debug\NewGame.pdb
+C:\Users\Matheus\ITD CANADA\0000 - PROJECTS\03 - C# NewGame\NewGame 1.1\NewGame\obj\Debug\NewGame.csprojAssemblyReference.cache
+C:\Users\Matheus\ITD CANADA\0000 - PROJECTS\03 - C# NewGame\NewGame 1.1\NewGame\obj\Debug\NewGame.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\ITD CANADA\0000 - PROJECTS\03 - C# NewGame\NewGame 1.1\NewGame\obj\Debug\NewGame.exe
+C:\Users\Matheus\ITD CANADA\0000 - PROJECTS\03 - C# NewGame\NewGame 1.1\NewGame\obj\Debug\NewGame.pdb
